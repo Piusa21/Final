@@ -17,7 +17,7 @@ BATCH_FILES = {}
 async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[           
-            InlineKeyboardButton("⚡ UᎮDΛTΞS ⚡", url="https://t.me/Lordshiptv")
+            InlineKeyboardButton("⚡ UᎮDΛTΞS ⚡", url="https://t.me/adultship")
             ],[
             InlineKeyboardButton("🔞 ΛDULϮ BԾϮ 🔞", url="https://t.me/Adultship")
         ]]
@@ -33,7 +33,9 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention, message.from_user.username, temp.U_NAME))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton("🧩 TUϮԾᏒIΛL", url="https://t.me/mcrequestbot"),
+            InlineKeyboardButton("⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚", url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            ],[
+            InlineKeyboardButton("🔍 𝚂𝚎𝚊𝚛𝚌𝚑", switch_inline_query_current_chat=''),
             InlineKeyboardButton("🍿 UᎮDΛTΞS 🍿", url="https://t.me/Lordshiptv")
             ],[
             InlineKeyboardButton("♻️ HΞLᎮ ♻️", callback_data="help"),
@@ -67,7 +69,9 @@ async def start(client, message):
         
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton("🧩 TUϮԾᏒIΛL", url="https://t.me/mcrequestbot"),
+            InlineKeyboardButton("⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚", url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            ],[
+            InlineKeyboardButton("🔍 𝚂𝚎𝚊𝚛𝚌𝚑", switch_inline_query_current_chat=''),
             InlineKeyboardButton("🍿 UᎮDΛTΞS 🍿", url="https://t.me/Lordshiptv")
             ],[
             InlineKeyboardButton("♻️ HΞLᎮ ♻️", callback_data="help"),
