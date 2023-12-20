@@ -3,7 +3,7 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ</b>"""
+I Cᴀɴ Pʀᴏᴠɪᴅᴇ ADULT Mᴏᴠɪᴇ</b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂:"
 
