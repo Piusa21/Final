@@ -212,7 +212,7 @@ Fʀᴇᴇ Dɪꜱᴋ: {}"""
     
     BUTTON_LOCK_TEXT = "Tʜɪꜱ Iꜱ Nᴏᴛ Fᴏʀ Yᴏᴜ. Sᴇᴀʀᴄʜ FOR Yᴏᴜʀ Sᴇʟꜰ"
    
-    FORCE_SUB_TEXT = "𝐒ᴏʀʀʏ 𝐘ᴏᴜ 𝐇𝐚𝐯𝐞 𝐍ᴏᴛ 𝐉ᴏɪɴᴇᴅ 𝐌ʏ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂ʜᴀɴɴᴇʟ, 𝐒ᴏ 𝐏ʟᴇᴀ𝐬ᴇ 𝐂ʟɪᴄᴋ 𝐎𝐧 𝐓𝐡𝐞 𝐉ᴏɪɴ 𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐉ᴏɪɴ 𝐌ʏ 𝐂ʜᴀɴɴᴇʟ 𝐀ɴᴅ ♻️ 𝐓ʀʏ 𝐀ɢᴀɪɴ"
+    FORCE_SUB_TEXT = "<b>please join our 2 updates channel to use this bot!</b> \n\n<b>updates channel 1: 👇</b> \n<b>https://t.me/Hislordship_movies</b>"
    
     WELCOM_TEXT = """Hᴇʏ {user} 💞
 
